@@ -3,8 +3,19 @@
     "title": "your first project",
     "description": "this is a placeholder. send a photo + caption to your telegram bot to replace it. the bot will update this file automatically and your site will refresh in about 30 seconds.",
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200",
-    "tags": ["placeholder", "delete-me"],
+    "tags": [
+      "placeholder",
+      "delete-me"
+    ],
     "timestamp": 1715000000,
+    "date": "May 2026"
+  },
+  {
+    "title": "My project",
+    "description": "It’s a security plus management system for chicken coop",
+    "image": "images/1778743894-my-project.jpg",
+    "tags": [],
+    "timestamp": 1778743894,
     "date": "May 2026"
   }
 ]
