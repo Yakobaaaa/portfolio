@@ -6,5 +6,13 @@
     "tags": [],
     "timestamp": 1778743894,
     "date": "May 2026"
+  },
+  {
+    "title": "Chicken coop",
+    "description": "Security plus management system using ESP32 for chicken coop",
+    "image": "images/1778837830-chicken-coop.jpg",
+    "tags": [],
+    "timestamp": 1778837830,
+    "date": "May 2026"
   }
 ]
